@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://xeno-executors.org/</homePageLink>
+		<homePageLink>https://xeno-executorss.github.io/xeno//</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://xeno-executors.org/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://xeno-executors.org/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://xeno-executors.org/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://xeno-executors.org/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://xeno-executors.org/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="hhttps://xeno-executorss.github.io/xeno/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://xeno-executorss.github.io/xeno/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://xeno-executorss.github.io/xeno/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://xeno-executorss.github.io/xeno/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://xeno-executorss.github.io/xeno/wp-json/" />
 			</apis>
 	</service>
 </rsd>
